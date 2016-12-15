@@ -1,4 +1,4 @@
-CONNECT 'C:\Users\Vsevolod\Desktop\Databases\MyDB.fdb' user 'SYSDBA' password 'masterkey';
+connect 'C:\Users\Andrey\Desktop\BD\3\music.fdb' user 'sysdba' password 'masterkey' ;
 
 INSERT INTO Languages VALUES ('Russian');
 INSERT INTO Languages VALUES ('Latvian');
